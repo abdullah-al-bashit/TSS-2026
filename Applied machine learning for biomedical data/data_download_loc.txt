@@ -1,14 +1,17 @@
 expression.csv 
 
-direct download link - https://depmap.org/portal/data_page/?tab=allData&releasename=DepMap%20Public%2024Q2&filename=OmicsExpressionProteinCodingGenesTPMLogp1.csv
+direct download link (rename after expression.csv) 
+- https://depmap.org/portal/data_page/?tab=allData&releasename=DepMap%20Public%2024Q2&filename=OmicsExpressionProteinCodingGenesTPMLogp1.csv
+
 web download - 
 - go: https://depmap.org/portal/data_page/?tab=allData
 - look for: OmicsExpressionProteinCodingGenesTPMLogp1.csv
 
 
-metadata
+metadata.csv
 
-direct download link - https://depmap.org/portal/data_page/?tab=allData&releasename=DepMap%20Public%2024Q2&filename=Model.csv
+direct download link (rename after metadata.csv) 
+- https://depmap.org/portal/data_page/?tab=allData&releasename=DepMap%20Public%2024Q2&filename=Model.csv
 
 web download - 
 - go: https://depmap.org/portal/data_page/?tab=allData
